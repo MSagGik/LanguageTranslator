@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">LanguageTranslator</string>
+    <string name="header">СЛОВАРЬ ПЕРЕВОДЧИК МЕСТОИМЕНИЙ</string>
 </resources>
